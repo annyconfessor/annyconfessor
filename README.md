@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annyconfessor
 - 👀 I’m interested in frontend engineering and data science
-- 🌱 I’m currently learning machine learning and javascript
+- 🌱 I’m currently learning javascript and machine learning
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: you can search for @annyconfessor or @confessoranny in all social media and other conections
 
