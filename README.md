@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annyconfessor
-- 👀 I’m interested in frontend engineering and data science
-- 🌱 I’m always learning javascript, typescript and React
+- 👀 I’m interested in software development
+- 🌱 I’m always learning javascript, typescript and React. Now, I'm learning backend also.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: you can search for @annyconfessor in all social media and other conections
 
